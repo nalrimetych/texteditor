@@ -1,0 +1,1 @@
+  -L"C:/Users/admin/Desktop/texteditor/SDL2/x86_64-w64-mingw32/lib"  "C:/Users/admin/Desktop/texteditor/SDL2/x86_64-w64-mingw32/lib/libSDL2.dll.a" "C:/Users/admin/Desktop/texteditor/SDL2_ttf/x86_64-w64-mingw32/lib/libSDL2_ttf.dll.a" -mwindows -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

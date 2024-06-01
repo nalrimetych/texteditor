@@ -1,0 +1,3 @@
+C:/Users/admin/Desktop/texteditor/build/CMakeFiles/texteditor.dir
+C:/Users/admin/Desktop/texteditor/build/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/texteditor/build/CMakeFiles/rebuild_cache.dir
